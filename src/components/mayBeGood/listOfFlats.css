@@ -1,0 +1,21 @@
+.listOfFlats {
+  position: absolute;
+  top: 1300px;
+  left: 70px;
+}
+
+.p-maybegood {
+  font-size: 33px;
+  font-weight: 900;
+}
+
+.apart_list {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+}
+
+.lll {
+  width: 100px;
+  height: 100px;
+}
